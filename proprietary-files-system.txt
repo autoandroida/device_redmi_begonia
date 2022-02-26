@@ -1,0 +1,5 @@
+-product/priv-app/HotwordEnrollmentOKGoogleCORTEXM4/HotwordEnrollmentOKGoogleCORTEXM4.apk
+-product/priv-app/HotwordEnrollmentXGoogleCORTEXM4/HotwordEnrollmentXGoogleCORTEXM4.apk
+bin/iwpriv
+lib64/libaptXHD_encoder.so
+lib64/libaptX_encoder.so
